@@ -9,5 +9,5 @@
 Как выглядит визуально выглядит программа: 
 
 
-![ScreenShot](screenshot.png)
+![ScreenShot](Screenshot_1.png)
 
